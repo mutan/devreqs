@@ -54,3 +54,4 @@
 
 * [Pro Git book](https://git-scm.com/book/en/v2)
 * [LearnGitBranching](https://learngitbranching.js.org) - визуальная игра-обучение
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
