@@ -52,7 +52,14 @@
 * В коммитах необходимо использовать термины из словаря проекта.
 
 ## Материалы для обучения
-
+### Книги
 * [Pro Git book](https://git-scm.com/book/en/v2)
-* [LearnGitBranching](https://learngitbranching.js.org) - визуальная игра-обучение
+
+### Статьи
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+### Видео
+* [How and when do I merge or rebase?](https://www.youtube.com/watch?v=Nftif2ynvdA&t) JetBrainsTV
+
+### Игры
+* [LearnGitBranching](https://learngitbranching.js.org) - визуальная игра-обучение
